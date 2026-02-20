@@ -3,7 +3,7 @@
   "version": "1.0.4-8.221630",
   "publishConfig": {
     "tag": "next"
-  }
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
